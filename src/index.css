@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-muzar-red: #A83236;
+  --color-muzar-red-hover: #92272B;
+  --color-muzar-red-dark: #7A1F22;
+  --color-muzar-red-light: #FBF2F2;
+  --color-muzar-red-border: #F2CECF;
+
+  --color-muzar-gold: #F5A623;
+  --color-muzar-gold-hover: #E29515;
+  --color-muzar-gold-light: #FEF7ED;
+  --color-muzar-gold-border: #FCE3B8;
+
+  --color-muzar-cream: #FAF0DA;
+  --color-muzar-cream-light: #FDFBF7;
+}
+
+:root {
+  --muzar-primary: #A83236;
+  --muzar-gold: #F5A623;
+  --muzar-cream: #FAF0DA;
+}
+
